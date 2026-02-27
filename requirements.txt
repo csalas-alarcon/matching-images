@@ -1,7 +1,7 @@
 numpy
+pillow
+scipy
 matplotlib 
 networkx 
-scipy 
-pillow 
 ipykernel
 jupyter
