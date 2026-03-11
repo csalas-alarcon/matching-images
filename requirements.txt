@@ -3,5 +3,6 @@ pillow
 scipy
 matplotlib 
 networkx 
+gensim
 ipykernel
 jupyter
